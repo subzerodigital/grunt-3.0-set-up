@@ -1,0 +1,21 @@
+{
+	"jsMinSrc":"jsmin/app-concat.js",
+	"jsConcatDesc":"jsmin/app-concat.js",
+	"jsMinDest":"jsmin/app-min.js",
+	"cssFiles":[
+	   "styles/compiled.css"         
+	],
+	"cssMinDest":"styles/compiled-min.css",	
+	"jsMenifestSource":"",
+	"jsMenifestJspDest":"",
+	"jsMenifestOutput":{
+		"src":"scripts/jsIncludes",
+		"dest":"c:/_devl/workspace/git-wcms/sites/newsonline/abc-cae-news-webapp/src/main/webapp/WEB-INF/templates-adp/com.coremedia.starterkit.common.contentbeans/js.jsp",
+		"template":"dev/grunt/tmpl/script.template.html",
+		"srcPrefix":"http://localhost.abc.net.au/"
+	},
+	"concatDest":{
+		"libIncludes":"scripts/min/lib.js",
+		"nameSpaceIncludes":"scripts/min/abc-namespace.js"
+	}
+}

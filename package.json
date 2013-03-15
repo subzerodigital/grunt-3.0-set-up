@@ -1,0 +1,20 @@
+{
+  "name": "ABC-ADP",
+  "version": "0.0.1",
+  "description": "ABC - News online - mobile",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": "",
+  "author": "Yinan Yang",
+  "license": "BSD",
+  "dependencies":{
+  	"grunt":"*",
+  	"grunt-css":"0.3.x",
+  	"underscore":"*",
+  	"grunt-jasmine-runner":"*",
+  	"lodash":"1.0.0",
+  	"grunt-ftp-deploy":"0.0.4",
+  	"inherits":"*"
+  }
+}
